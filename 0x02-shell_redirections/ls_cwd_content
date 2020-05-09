@@ -1,0 +1,20 @@
+total 88
+drwxrwxr-x 2 aflasso aflasso  4096 may  9 17:51 .
+drwxrwxr-x 6 aflasso aflasso  4096 may  4 17:25 ..
+-rwxrwxr-x 1 aflasso aflasso    37 may  4 17:25 0-hello_world
+-rw-rw-r-- 1 aflasso aflasso 12288 may  4 17:25 .0-hello_world.swp
+-rwxrwxr-x 1 aflasso aflasso    23 may  4 17:25 1-confused_smiley
+-rwxrw-r-- 1 aflasso aflasso    28 may  9 13:32 2-hellofile
+-rwxrw-r-- 1 aflasso aflasso    39 may  9 13:40 3-twofiles
+-rwxrw-r-- 1 aflasso aflasso    29 may  9 13:42 4-lastlines
+-rwxrw-r-- 1 aflasso aflasso    29 may  9 13:46 5-firstlines
+-rwxrw-r-- 1 aflasso aflasso    36 may  9 14:09 6-third_line
+-rwxrw-r-- 1 aflasso aflasso   101 may  9 17:36 7-file
+-rw-r--r-- 1 aflasso aflasso 12288 may  9 15:59 .7-file.swo
+-rw-r--r-- 1 aflasso aflasso 12288 may  9 15:59 .7-file.swp
+-rwxrw-r-- 1 aflasso aflasso    36 may  9 17:50 8-cwd_state
+-rw-rw-r-- 1 aflasso aflasso     7 may  4 17:25 cara
+-rw-rw-r-- 1 aflasso aflasso    82 may  9 14:06 iacta
+-rw-rw-r-- 1 aflasso aflasso     0 may  9 17:51 ls_cwd_content
+-rw-rw-r-- 1 aflasso aflasso     0 may  4 17:25 README.md
+-rw-rw-r-- 1 aflasso aflasso     0 may  9 17:51 sdjfhuiheu
