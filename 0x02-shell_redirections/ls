@@ -1,0 +1,54 @@
+.:
+total 108
+drwxrwxr-x 4 aflasso aflasso  4096 may 15 18:03 .
+drwxrwxr-x 7 aflasso aflasso  4096 may  9 20:28 ..
+-rwxrwxr-x 1 aflasso aflasso    37 may  4 17:25 0-hello_world
+-rw-rw-r-- 1 aflasso aflasso 12288 may  4 17:25 .0-hello_world.swp
+-rwxrw-r-- 1 aflasso aflasso    48 may 15 17:25 10-no_more_js
+-rwxrw-r-- 1 aflasso aflasso    53 may 15 18:02 11-directories
+-rwxrwxr-x 1 aflasso aflasso    23 may  4 17:25 1-confused_smiley
+-rwxrw-r-- 1 aflasso aflasso    28 may  9 13:32 2-hellofile
+-rwxrw-r-- 1 aflasso aflasso    39 may  9 13:40 3-twofiles
+-rwxrw-r-- 1 aflasso aflasso    29 may  9 13:42 4-lastlines
+-rwxrw-r-- 1 aflasso aflasso    29 may  9 13:46 5-firstlines
+-rwxrw-r-- 1 aflasso aflasso    36 may  9 14:09 6-third_line
+-rwxrw-r-- 1 aflasso aflasso   101 may  9 17:36 7-file
+-rw-r--r-- 1 aflasso aflasso 12288 may  9 15:59 .7-file.swo
+-rw-r--r-- 1 aflasso aflasso 12288 may  9 15:59 .7-file.swp
+-rwxrw-r-- 1 aflasso aflasso    36 may  9 17:50 8-cwd_state
+-rw-rw-r-- 1 aflasso aflasso     7 may  4 17:25 cara
+drwxrwxr-x 2 aflasso aflasso  4096 may  9 18:33 hola.js
+-rw-rw-r-- 1 aflasso aflasso    94 may  9 18:03 iacta
+-rw-rw-r-- 1 aflasso aflasso     0 may 15 18:03 ls
+-rw-rw-r-- 1 aflasso aflasso  1128 may  9 17:51 ls_cwd_content
+drwxrwxr-x 4 aflasso aflasso  4096 may  9 19:40 pipe
+-rw-rw-r-- 1 aflasso aflasso     0 may  4 17:25 README.md
+
+./hola.js:
+total 8
+drwxrwxr-x 2 aflasso aflasso 4096 may  9 18:33 .
+drwxrwxr-x 4 aflasso aflasso 4096 may 15 18:03 ..
+
+./pipe:
+total 16
+drwxrwxr-x 4 aflasso aflasso 4096 may  9 19:40 .
+drwxrwxr-x 4 aflasso aflasso 4096 may 15 18:03 ..
+drwxrwxr-x 2 aflasso aflasso 4096 may  9 18:34 hallo.js
+-rw-rw-r-- 1 aflasso aflasso    0 may  9 18:25 lasso.jpg
+drwxrwxr-x 3 aflasso aflasso 4096 may  9 19:40 polo
+
+./pipe/hallo.js:
+total 8
+drwxrwxr-x 2 aflasso aflasso 4096 may  9 18:34 .
+drwxrwxr-x 4 aflasso aflasso 4096 may  9 19:40 ..
+
+./pipe/polo:
+total 12
+drwxrwxr-x 3 aflasso aflasso 4096 may  9 19:40 .
+drwxrwxr-x 4 aflasso aflasso 4096 may  9 19:40 ..
+drwxrwxr-x 2 aflasso aflasso 4096 may  9 18:34 yo.js
+
+./pipe/polo/yo.js:
+total 8
+drwxrwxr-x 2 aflasso aflasso 4096 may  9 18:34 .
+drwxrwxr-x 3 aflasso aflasso 4096 may  9 19:40 ..
