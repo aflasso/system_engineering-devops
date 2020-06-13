@@ -1,4 +1,4 @@
 #!/bin/bash
-find /etc passwd -exec pwd {} \;
+grep root /etc/passwd
 
  
