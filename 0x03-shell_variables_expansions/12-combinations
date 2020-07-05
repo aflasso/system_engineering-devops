@@ -1,0 +1,6 @@
+#!/bin/bash
+#printf "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" "%s\n" a{a..z}  
+
+
+
+printf "%s\n" {a..z}{a..z} | grep -v "oo" 
